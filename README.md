@@ -33,7 +33,7 @@ This imports the partition submodule from the quicksort main module. <br/>
 
 In addition, if installation works well, the import statement should work fine.<br/>
 
-![Alt Text](images/img1.png)
+![Alt Text](images/img1.PNG)
 
 ## Testing the Partition Function
 Now, we will call the partition function from the partition submodule.<br/>
@@ -46,7 +46,7 @@ Thus, 0 and len(lst) - 1 refer to the left and right pointers in the partition a
 
 In addition, this routine uses the 1st element as the pivot. <br/>
 
-![Alt Text](images/img2.png)
+![Alt Text](images/img2.PNG)
 
 Notice that after 1 call to the partition routine, the index returned belong to pivot element 3.<br/>
 
