@@ -1,0 +1,8 @@
+README.md
+setup.py
+quicksort/__init__.py
+quicksort/partition.py
+quicksort_wc95.egg-info/PKG-INFO
+quicksort_wc95.egg-info/SOURCES.txt
+quicksort_wc95.egg-info/dependency_links.txt
+quicksort_wc95.egg-info/top_level.txt
