@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="quicksort-wc95", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="WeiChin",
     author_email="hwc.howeichin@gmail.com",
     description="A small example package",
